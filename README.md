@@ -1,8 +1,8 @@
 # mlr_speedometer
-                                                                 Made by: MLr
+                                                     Made by: MLr
 
 
-                                                        Originally made to Nätverket RP.
+                                            Originally made to Nätverket RP.
 
 ______________________________________________________
 
