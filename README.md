@@ -16,3 +16,5 @@ ______________________________________________________
 ![alt text](https://i.imgur.com/WkpNNcj.jpg)
 
 
+
+Ofc, this is a script made for fxserver FIVEM.
