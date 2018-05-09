@@ -1,0 +1,53 @@
+@font-face {
+    font-family: digital;
+    src: url("digital.ttf");
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.kmh {
+    position: absolute;
+    top: 5%;
+    right: 6.75%;
+    font-family: digital;
+    color:green;
+}
+
+
+div.image:before {
+    content:url(" background.png ");
+}
+
+img.resize {
+    width:540px;
+    height: auto;
+}
+
+p {
+    margin: 0 auto;
+    font-family: digital;
+    color:green;
+}
+
+#container {
+    min-height: 100%;
+}
+
+#speedcontainer {
+    position: absolute;
+    bottom: 14.3%;
+    right: 8.57%;
+}
+
+.speedLine1 {
+    position: absolute;
+	bottom: 3.5%;
+	right: 5%;
+	color: 00FF00;
+    font-size: 55px;
+
+}
+
